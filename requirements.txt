@@ -41,7 +41,7 @@ pandas==2.2.2
 pdfminer.six==20231228
 pdfplumber==0.11.2
 pillow==10.4.0
-pipwin==0.6
+pipwin==0.5.2
 portaudio19-dev==19.7.0
 protobuf==4.25.4
 pyaudio==0.2.14
